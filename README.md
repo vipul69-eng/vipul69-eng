@@ -3,6 +3,7 @@
 
 I am a software intern and developer focused on building scalable web infrastructure, developer tooling, and applied AI pipelines. My work bridges the gap between traditional full-stack engineering and modern large language model orchestration.
 
+![](https://komarev.com/ghpvc/?username=vipul69-eng)
 ---
 
 ## Technical Expertise
