@@ -52,10 +52,3 @@ A custom-built open-source proxy server.
 ### [Resume Pilot](https://github.com/vipul69-eng/resume-pilot)
 A Chrome extension for efficient resume management.
 * Streamlines the application process by managing multiple resume versions directly from the browser.
-
----
-
-## Connect
-
-* **LinkedIn:** [linkedin.com/in/vipull9](https://www.linkedin.com/in/vipull9/)
-* **GitHub:** [github.com/vipul69-eng](https://github.com/vipul69-eng)
