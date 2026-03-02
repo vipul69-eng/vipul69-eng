@@ -1,52 +1,56 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=180&section=header&text=Vipul%20Sharma&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Vipul%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">AI Systems Engineer | Browser Automation | Frontend Architecture</h2>
+<h3 align="center">AI Systems Engineer | Browser Automation Architect | Frontend Systems Design</h3>
 
 <p align="center">
-Designing context-aware automation systems and production-grade developer tools.
+  Building context-aware automation systems and production-grade developer infrastructure.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vipul69-eng&color=0f172a&style=flat" />
 </p>
 
 ---
 
-## About
+## Profile
 
-I build intelligent automation systems that understand structure and context rather than executing brittle scripts.  
-My work focuses on resilient browser automation, AI-driven agents, and developer-first tooling built for production environments.
+I design and engineer intelligent automation systems that understand structure, state, and execution flow.  
+My work focuses on browser-based AI agents, resilient CLI tooling, and scalable automation architecture.
 
-I approach engineering with a systems mindset:
+My engineering approach prioritizes:
 
-- Clear architectural boundaries  
-- Context-aware execution  
-- Reliability under real-world constraints  
-- Minimal and functional interface design  
-
----
-
-## Core Focus
-
-### Autonomous Browser Agents
-Designing automation systems capable of navigating dynamic web applications, reactive frameworks, shadow DOM components, and complex execution flows.
-
-### AI Agent Architecture
-Building structured, context-driven systems that reason over discovered application knowledge.
-
-### Production CLI Systems
-Developing secure, extensible command-line tools with controlled execution environments and scalable architecture.
-
-### Frontend Engineering
-Creating clean, high-precision interfaces with strong attention to layout, spacing, and interaction design.
+- System-level clarity  
+- Context-driven execution  
+- Production reliability  
+- Minimal, high-precision interface design  
 
 ---
 
-## Technical Stack
+## Areas of Work
+
+### Autonomous Browser Systems
+Architecting agents capable of navigating modern web applications including reactive frameworks, dynamic DOM environments, and multi-step workflows.
+
+### AI-Oriented Execution Frameworks
+Building structured knowledge-driven systems that reason before acting, reducing brittleness and increasing reliability.
+
+### Production CLI Infrastructure
+Designing secure and extensible command-line tools with controlled runtime behavior and scalable distribution models.
+
+### Frontend Systems Engineering
+Developing clean, structured interfaces with emphasis on layout integrity, predictable behavior, and refined interaction patterns.
+
+---
+
+## Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,playwright,linux,git,docker" />
 </p>
 
-Primary Technologies
+Core Technologies
 
 - Python  
 - Playwright  
@@ -55,45 +59,49 @@ Primary Technologies
 - React  
 - Node.js  
 - Linux  
+- Docker  
 - Git  
 
-Core Competencies
+Specialized Competencies
 
-- Web automation systems  
+- Browser automation systems  
 - AI agent orchestration  
 - CLI tool architecture  
-- Secure license-based distribution  
-- System debugging and dependency management  
-- Production stability and failure handling  
+- Secure license-controlled execution  
+- Dependency management and system debugging  
+- Production fault tolerance  
 
 ---
 
-## Architecture Perspective
+## Systems Thinking
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1e293b&height=120&section=header&text=Problem%20%E2%86%92%20System%20Design%20%E2%86%92%20Automation%20Layer%20%E2%86%92%20Production%20Execution&fontSize=18&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&height=120&section=header&text=Problem%20→%20System%20Modeling%20→%20Automation%20Logic%20→%20Controlled%20Execution&fontSize=18&fontColor=ffffff" />
 </p>
 
-I design systems as structured pipelines:
-
-Problem definition → system modeling → automation logic → controlled execution.
+I design automation as structured pipelines rather than isolated scripts.  
+Each layer is isolated, observable, and built to withstand failure states.
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipul69-eng&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul69-eng&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vipul69-eng&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul69-eng&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipul69-eng&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## Current Direction
+## Current Focus
 
 - Advanced AI-driven browser agents  
 - Context-aware automation frameworks  
-- Secure commercial CLI tooling  
+- Secure commercial CLI systems  
 - Scalable execution architectures  
 
 ---
