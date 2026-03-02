@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Vipul%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
-
 <h3 align="center">AI Systems Engineer | Browser Automation Architect | Frontend Systems Design</h3>
 
 <p align="center">
