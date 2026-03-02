@@ -79,10 +79,3 @@ I focus on building systems that scale beyond demos and operate reliably under r
 ## Contact
 
 GitHub: https://github.com/vipul69-eng
-"""
-
-# Convert to standalone markdown file
-output_path = "/mnt/data/README.md"
-pypandoc.convert_text(readme_content, 'md', format='md', outputfile=output_path, extra_args=['--standalone'])
-
-output_path
