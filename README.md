@@ -1,10 +1,4 @@
-# Create a professional GitHub profile README (Markdown)
-import pypandoc
-
-readme_content = """
-# Vipul Sharma
-
-AI Systems Engineer | Browser Automation | Frontend Architecture
+## AI Systems Engineer | Browser Automation | Frontend Architecture
 
 I design and build intelligent automation systems that understand context, reason about web environments, and generate production-grade execution workflows. My work focuses on resilient browser automation, AI-driven agents, and developer-first tooling.
 
